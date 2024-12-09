@@ -88,3 +88,4 @@ echo "\"y\" on the question to save and \"enter\""
 echo "on the name"
 
 echo "start the miner with \"cd ~/ccminer; ./start.sh\"."
+cp ccminer/start.sh /etc/profiles.d/
