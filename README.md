@@ -1,4 +1,4 @@
-# Android-Mining
+# Budi01Gaming
 Quick installation of mining on Android Phones
 
 ## Github cloning and customizing
