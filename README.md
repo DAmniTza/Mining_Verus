@@ -1,4 +1,4 @@
-armminer
+#AUTO-RUN ON userland
 Quick installation of mining on Android Phones
 
 ## Github cloning and customizing
