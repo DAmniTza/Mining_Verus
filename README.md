@@ -1,4 +1,4 @@
-# Budi01Gaming
+armminer
 Quick installation of mining on Android Phones
 
 ## Github cloning and customizing
