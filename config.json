@@ -2,19 +2,19 @@
 	"pools":[
 	{
 		"name": "Verus.Farm",
-        "url": "stratum+tcp://sg.vipor.net:5040",
+        "url": "stratum+tcp://verus.farm:9999",
 		"timeout": 150,
 		"disabled": 0
 	},
 	{
 		"name": "Verus.Farm",
-        "url": "stratum+tcp://ap.vipor.net:5040",
+        "url": "stratum+tcp://verus.farm:9999",
 		"timeout": 60,
 		"time-limit": 600,
 		"disabled": 0
 	}],
 	
-	"user": "RWBC4PDggqaQPbkeHKKS9CD2tsqw6b9FDM.MJ",
+	"user": "RY2QYUcunioDtf4Zc8dDZ5KVy3cnTWr9L1.MJ",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 5,
